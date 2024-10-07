@@ -1,1 +1,1 @@
-"# learning-udacity-generative-ai" 
+# learning-udacity-generative-ai
